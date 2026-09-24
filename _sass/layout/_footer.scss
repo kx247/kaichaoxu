@@ -1,7 +1,9 @@
 /* ==========================================================================
    FOOTER
    ========================================================================== */
-
+.page__footer {
+  display: none;
+}
 .page__footer {
   @include clearfix;
   background-color: var(--global-footer-bg-color);
