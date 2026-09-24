@@ -11,4 +11,5 @@ My name is Kaichao Xu, currently a student studying Mathematics (Part III) in Ca
 
 My website is still under construction, hope it would look nicer in the future!
 
-googlede3ba19d3e2583fc.html
+
+[Open notes](/kaichaoxu/files/googlede3ba19d3e2583fc.html)
