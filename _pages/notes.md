@@ -6,7 +6,7 @@ author_profile: true
 
 Here are some notes I took when I was studying at UCL (although there are certainly many typos).
 
-## Completed Lecture notes:
+## Completed Lecture notes in UCL:
 
 ### Probability
 
