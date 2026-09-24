@@ -42,3 +42,18 @@ Here are some notes I took when I was studying at UCL (although there are certai
 
 [Open notes](/kaichaoxu/files/Spectral_Theory.pdf)
 
+## Asymptotic Approximation Methods
+
+[Open notes](/kaichaoxu/files/Asymptotic_Approximation_Methods.pdf)
+
+## Waves and Wave Scattering
+
+[Open notes](/kaichaoxu/files/Waves_and_Wave_Scattering.pdf)
+
+## Variational methods for partial differential equations
+
+[Open notes](/kaichaoxu/files/Variational_methods_for_partial_differential_equations.pdf)
+
+
+
+
