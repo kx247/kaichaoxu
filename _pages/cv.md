@@ -18,8 +18,5 @@ Research Interest
 ======
 Analysis, PDEs, Applid Math
 
-Undergraduate Research 
-======
-* Spectral Analysis on Pseudo-differential operator, 2025 Summer
 
 
