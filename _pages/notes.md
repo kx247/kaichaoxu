@@ -56,8 +56,6 @@ Here are some notes I took when I was studying at UCL (although there are certai
 
 [Open notes](/kaichaoxu/files/Variational_methods_for_partial_differential_equations.pdf)
 
-## Some Incompleted notes for reference:
-
 ## Expository
 
 
