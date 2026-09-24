@@ -6,7 +6,39 @@ author_profile: true
 
 Here are some notes I took when I was studying at UCL (although there are certainly many typos).
 
-### Probability
+## Probability
 
-[Open my notes]({{ '/files/Probability.pdf' | relative_url }})
+[Open notes](/kaichaoxu/files/Probability.pdf)
+
+## Algebraic Geometry
+
+[Open notes](/kaichaoxu/files/Algebraic_Geometry.pdf)
+
+## Applied Stochastic Methods
+
+[Open notes](/kaichaoxu/files/Applied_Stochastic_Methods.pdf)
+
+## Elliptic Curves
+
+[Open notes](/kaichaoxu/files/Elliptic_Curves.pdf)
+
+## Functional Analysis
+
+[Open notes](/kaichaoxu/files/Functional_analysis.pdf)
+
+## Homological Algebra
+
+[Open notes](/kaichaoxu/files/Homological_Algebra.pdf)
+
+## Lie Groups and Lie Algebras
+
+[Open notes](/kaichaoxu/files/Lie_Groups_and_Lie_Algebras.pdf)
+
+## Modular Forms
+
+[Open notes](/kaichaoxu/files/Modular_Forms.pdf)
+
+## Spectral Theory
+
+[Open notes](/kaichaoxu/files/Spectral_Theory.pdf)
 
