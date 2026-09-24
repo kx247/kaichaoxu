@@ -8,5 +8,5 @@ Here are some notes I took when I was studying at UCL (although there are certai
 
 ### Probability
 
-[Probability](/files/Probability.pdf)
+[Open my notes]({{ '/files/Probability.pdf' | relative_url }})
 
