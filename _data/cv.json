@@ -1,64 +1,55 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Kaichao Xu",
+    "email": "kx247@cam.ac.uk",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://kx247.github.io/kaichaoxu//",
+    "summary": "Currently studying at Cambridge in MASt Applied Math (Part III)",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Cambridge",
+      "countryCode": "UK",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": ""
       },
       {
-        "network": "ORCID",
+        "network": "",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": ""
       },
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://kx247.github.io/kaichaoxu/"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Cambridge",
+      "area": "MASt in Applied Math (Part III)",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "Expected 2027",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University College London",
+      "area": "Mathematics",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2026",
       "gpa": null,
       "courses": []
     },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
-    }
   ],
   "skills": [],
   "languages": [],
