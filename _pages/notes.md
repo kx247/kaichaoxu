@@ -60,7 +60,7 @@ Here are some notes I took when I was studying at UCL (although there are certai
 
 ### Little Projects did when I was studying at UCL:
 
-[Galois Theory](/kaichaoxu/files/Galois_theory_Group_Project(1).pdf), [Space Filling Curves](/kaichaoxu/files/Space_Filling_Curves(1).pdf)
+[Galois Theory](/kaichaoxu/files/Galois_theory_Group_Project.pdf), [Space Filling Curves](/kaichaoxu/files/Space_Filling_Curves.pdf)
 
 ### Note on Pseudo-Differential Operator when I was doing a summer research:
 
